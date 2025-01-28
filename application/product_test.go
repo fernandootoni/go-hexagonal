@@ -3,7 +3,7 @@ package application_test
 import (
 	"testing"
 	"github.com/stretchr/testify/require"
-	"github.com/fernandootoni/go-hexagonal"
+	"github.com/fernandootoni/go-hexagonal/application"
 )
 
 func TestProduct_Enable(t *testing.T) {
